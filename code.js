@@ -5,6 +5,3 @@ function mentoria() {
     document.getElementById("showup").style.display = "none";
   }
 }
-
-
-$('form input').attr('required', 'required');
