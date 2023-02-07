@@ -194,6 +194,10 @@ span {
   outline: 2px solid rgb(0, 0, 226);
 }
 
+#showup {
+  display: none;
+}
+
 .datetime {
   display: flex;
   flex-direction: row;
